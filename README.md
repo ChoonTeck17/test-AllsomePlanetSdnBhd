@@ -1,7 +1,7 @@
 
 ## This program processes data from a CSV file. It calculates the total revenue from all orders and identifies which product (SKU) sold the most units. The results are returned in JSON format.
 
-To run this program, use:
+To run this program, run this in the terminal
 ```bash
 php test.php
 ```
